@@ -1,0 +1,111 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#mainWhiteFrame{
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1550px;
+    border: 96px solid #FFB8D7;
+    margin-top: 64px;
+    margin-bottom: 300px;
+}
+#headerFrame{
+    text-align: center;
+    width: fit-content;
+    margin: 0 auto;
+}
+#blog{
+    padding-top: 95px;
+    padding-bottom: 12px;
+    color: #002AFE;
+    font-size: 16px;
+    font-weight: 600;
+}
+#header{
+    color: #181D27;
+    font-size: 48px;
+    font-weight: 600;
+    padding-bottom: 24px;
+}
+#latestIndustry{
+    font-size: 20px;
+    color: #535862;
+    font-weight: 400;
+}
+#firstBiigContainer,
+#secondBigCOntainer,
+#thirdBigContainer{
+    width: 1346px;
+    padding: 56px 66px;
+    margin: 0 auto;
+}
+#thirdBigContainer{
+    margin-bottom: 96px;
+}
+#firstImg, #secondImg, #thirdImg{
+    vertical-align: top;
+    width: 550px;
+    height: 400px;
+    margin-right: 70px;
+}
+#designFrame, #frameworkFrame,
+#customerFrame{
+    width: 100%;
+    vertical-align: top;
+    max-width: 590px;
+    display: inline-block;
+    text-align: left;
+    padding: 93px 0px;
+}
+#design, #product, #customer{
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+    padding-bottom: 8px;
+}
+#collaboration, #framework, #podcast{
+    vertical-align: top;
+    display: inline-block;
+    color: #181D27;
+    width: fit-content;
+    font-size: 24px;
+    font-weight: 600;
+    padding-bottom: 8px;
+}
+#collabArrow, #secondArrow,
+#thirdArrow{
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    margin-left: 16px;
+    vertical-align: top;
+}
+#colllaborationParag, #frameworkParag,
+#podcastParag{
+    color: #535862;
+    font-size: 16px;
+    padding-bottom: 24px;
+}
+#firstAvatar, #avatarSecond,
+#lastAvaatra{
+    vertical-align: top;
+    margin-left: 8px;
+    width: 40px;
+    height: 40px;
+}
+#nataliFrame, #natalFrame, 
+#avatarFrame{
+    display: inline-block;
+    vertical-align: top;
+}
+#natalii, #name, #nataliName{
+    font-size: 14px;
+    color: #181D27;
+    font-weight: 600;
+}
+#birth, #year, #birthYear{ 
+    color: #535862;
+    font-size: 14px;
+}
